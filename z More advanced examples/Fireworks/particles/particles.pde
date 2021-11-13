@@ -1,3 +1,5 @@
+// Example created by Chris Martin
+
 Particle[] p = new Particle[100];
  
  
@@ -62,4 +64,3 @@ class Particle {
     ellipse(xPos, yPos, random(5, 10), random(5, 10));
   }
 }
-

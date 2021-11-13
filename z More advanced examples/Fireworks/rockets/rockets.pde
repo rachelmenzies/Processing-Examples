@@ -1,3 +1,5 @@
+// Example created by Chris Martin
+
 Rocket[] r= new Rocket[10];
  
 void setup() {
@@ -91,4 +93,3 @@ float xDragInc=0;
      
   }
 }
-
