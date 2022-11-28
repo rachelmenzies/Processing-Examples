@@ -42,7 +42,7 @@ void draw(){
   
   // re-map number from 0-1 to 200-400
   // smallest width is 200, largest is 400
-  w = map(vol,0,1,200,400);
+  w = map(vol,0,1,200,800);
   h = w*0.75;  // set height based on width
   
   // re-load the image each time so that the size calculation is done on original size 

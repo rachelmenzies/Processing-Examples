@@ -7,7 +7,7 @@ int x = 0;
 
 void setup()
 {
-  size(1200, 600);
+  size(1275, 600);
   strokeWeight(weight);
 }
 

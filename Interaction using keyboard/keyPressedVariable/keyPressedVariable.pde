@@ -2,7 +2,6 @@ int x = 300;
 int y = 300;
 int w = 50;
 int h = 50;
-boolean firstTime = true;
 
 void setup() { 
   size(600, 600);

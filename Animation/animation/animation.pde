@@ -9,16 +9,9 @@ void setup(){
 
 void draw(){
   background(255);
-  //x = getRandom();
-  //ellipse(x,y,30,30);
   drawShape();
 }
 
-
-float getRandom(){
-  float rand = random(0,600);
-  return rand; 
-}
 
 void drawShape(){
   ellipse(x,y,30,30);
